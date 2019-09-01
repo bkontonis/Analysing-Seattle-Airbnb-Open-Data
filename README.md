@@ -2,7 +2,7 @@
 
 
 ### Project Motivation
-For this project, I was interested in using Seattle Airbnb Open Data from Kaggle to extract useful information mostly about the price of properties. In particular, the data will be analysed to answer the following questions:
+For this project, I was interested in using Seattle Airbnb Open Data from Kaggle to extract useful information mostly about the pricing of the properties listed in the data. In particular, the data will be analysed to answer the following questions:
 
 - Which are the most/less expensive neighborhoods in Seattle?
 - What type of properties are mostly available in Seattle and how the price varies by property type?
