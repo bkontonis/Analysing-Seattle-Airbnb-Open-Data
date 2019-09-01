@@ -20,7 +20,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 ### File Descriptions
 
-- Data :  * listings.csv, including full descriptions and average review score.
+- Data :  listings.csv, including full descriptions and average review score.
 - A jupyter notebook with the data analysis.
 
 ### Summary of results
