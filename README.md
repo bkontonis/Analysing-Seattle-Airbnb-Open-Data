@@ -20,9 +20,9 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 ### File Descriptions
 
-- Data:  * listings.csv, including full descriptions and average review score.
-         * reviews.csv, including unique id for each reviewer and detailed comments
-		 * calendar.csv, including listing id and the price and availability for that day.
+- Data:  - listings.csv, including full descriptions and average review score.
+         - reviews.csv, including unique id for each reviewer and detailed comments
+		 - calendar.csv, including listing id and the price and availability for that day.
 - A jupyter notebook with the data analysis.
 
 ### Summary of results
