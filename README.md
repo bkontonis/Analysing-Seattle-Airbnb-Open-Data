@@ -30,6 +30,6 @@ This project requires **Python 3.x** and the following Python libraries installe
 The results of the analysis are summarised in a blog post here: []()
 
 ### Licenses and Acknowledgements
-I would like to thank Udacity courses for some of code ideas, and to kaggle/AirBnb for the data.
+I would like to thank Udacity Data Science Nanodegree Team for some of the code ideas, and to kaggle/AirBnb for the data.
 
-Feel free to use the code and let me know if the model can be improved.
+Feel free to use the code. Your feedback is more than welcome.
